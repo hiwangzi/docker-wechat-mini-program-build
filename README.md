@@ -1,6 +1,6 @@
 ## About
 
-* An unoffical WeChat mini program build environment.
+* An unofficial WeChat mini program build environment.
 * More details about CI for WeChat mini program, see [here](https://developers.weixin.qq.com/miniprogram/dev/devtools/ci.html).
 
 ## Example
