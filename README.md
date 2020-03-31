@@ -13,11 +13,11 @@ docker run --rm -v your_project_dir:/mini-program -v your_private_key_file.key:/
 
 ### Volume
 
-- `/mini-program`: Project folder
-- `/private.key`: Private key file
+- `/mini-program`: project folder
+- `/private.key`: private key file
 
 ### Environment Parameter
 
-- `BIG_BROTHER`: Use mirror taobao as npm registry
-- `PROJECT_APPID`: Your appid
-- `PROJECT_VERSION`: Mini program version code
+- `BIG_BROTHER`: use mirror taobao as npm registry
+- `PROJECT_APPID`: your appid
+- `PROJECT_VERSION`: mini program version code
