@@ -1,4 +1,4 @@
-![hub.docker.com icon](./hub.docker.com.png) [zill057/wechat-mini-program-build - Docker Hub](https://hub.docker.com/r/zill057/wechat-mini-program-build)
+![hub.docker.com icon](https://raw.githubusercontent.com/zill057/wechat-mini-program-build/master/hub.docker.com.png) [zill057/wechat-mini-program-build - Docker Hub](https://hub.docker.com/r/zill057/wechat-mini-program-build)
 
 ## About
 
